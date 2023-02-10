@@ -43,6 +43,6 @@ You will need:
 - Downlaod the app on your android device from the "releases" section or the "Control App" folder
 - Enjoy your RC Car!
 
-Schematic Diagram:
+# Schematic Diagram:
 ![image](https://user-images.githubusercontent.com/116896168/218069350-4a3540fb-aa1a-4be5-a8a7-811ba002883f.png)
 
